@@ -1,0 +1,24 @@
+
+#topNav li{
+  text-decoration: none;
+  display: inline;
+  float: right;
+  padding: 15px;
+}
+
+#topNav li:hover{
+  background-color: black;
+  color: yellow;
+}
+
+
+#topNav li a{
+  text-decoration: none;
+  font-family: monospace;
+  font-size: 45px;
+  color: orange;
+}
+
+#topNav li a:hover{
+  color: yellow;
+}

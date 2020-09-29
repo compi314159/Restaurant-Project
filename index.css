@@ -1,0 +1,58 @@
+body{
+    margin: 0px;
+}
+
+
+#topNav{
+  background-color: maroon;
+  height: 10%;
+  margin: 0px;
+  border: 2px solid green;
+}
+
+#topNav li{
+  text-decoration: none;
+  display: inline;
+  float: right;
+  padding: 15px;
+}
+
+#topNav li:hover{
+  background-color: green;
+  color: black;
+}
+
+
+#topNav li a{
+  text-decoration: none;
+  font-family: monospace;
+  font-size: 25px;
+  color: orange;
+}
+
+#topNav li a:hover{
+  color: black;
+}
+
+ #menuNav{
+   height: 100%;
+   width: 75px;
+   background-color: orange;
+   border-right: 2px solid green;
+   border-left: 2px solid green;
+   padding-left: 10px;
+   margin: 0px;
+   float: left;
+ }
+
+ #menuNav li{
+   list-style: none;
+   font-color: black;
+   font-size: 15px;
+   font-family: sans-serif;
+   padding-top: 25px;
+ }
+ #Taj
+{
+  font-family: georgia;
+}
